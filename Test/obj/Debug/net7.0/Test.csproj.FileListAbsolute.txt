@@ -107,3 +107,4 @@ C:\Development\AdventOfCode2023\Test\obj\Debug\net7.0\ref\Test.dll
 C:\Development\AdventOfCode2023\Test\bin\Debug\net7.0\Input\Day1.txt
 C:\Development\AdventOfCode2023\Test\bin\Debug\net7.0\Input\Day1_Problem1.txt
 C:\Development\AdventOfCode2023\Test\bin\Debug\net7.0\Input\Day1_Problem2.txt
+C:\Development\AdventOfCode2023\Test\bin\Debug\net7.0\Input\Day2.txt

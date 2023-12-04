@@ -1,15 +1,10 @@
 ﻿using AdventOfCode.Framework;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Code.Solutions;
 
 [Solution(1)]
 [SolutionInput("Input/Day1.txt")]
-public class Day1 : Solution
+public class Day1 : TestableSolution
 {
     private static readonly Dictionary<string, uint> digitsAsWords = new()
     {
@@ -17,20 +12,6 @@ public class Day1 : Solution
     };
 
     public Day1(Input input) : base(input) { }
-
-    public string GetProblem1()
-    {
-        string? result = Problem1();
-        return result is null ? string.Empty : result;
-    }
-
-
-    public string GetProblem2()
-    {
-        string? result = Problem2();
-        return result is null ? string.Empty : result;
-    }
-
 
     protected override string? Problem1()
     {
@@ -117,5 +98,4 @@ public class Day1 : Solution
         }
         return 0;
     }
-
 }

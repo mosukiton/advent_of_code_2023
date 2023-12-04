@@ -16,3 +16,4 @@ C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.pdb
 C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.genruntimeconfig.cache
 C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\ref\Code.dll
 C:\Development\AdventOfCode2023\Code\bin\Debug\net7.0\Input\Day1.txt
+C:\Development\AdventOfCode2023\Code\bin\Debug\net7.0\Input\Day2.txt
