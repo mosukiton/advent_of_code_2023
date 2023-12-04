@@ -1,1 +1,3 @@
-# advent_of_code_2023
+# Advent of Code 2023
+
+lets see how many i can do before i get bored.
