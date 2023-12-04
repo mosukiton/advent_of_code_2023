@@ -4,8 +4,11 @@ namespace Code.Solutions;
 
 [Solution(1)]
 [SolutionInput("Input/Day1.txt")]
-public class Day1 : TestableSolution
+public class Day1 : Solution
 {
+    public string? GetResult1() => Problem1();
+    public string? GetResult2() => Problem2();
+
     private static readonly Dictionary<string, uint> digitsAsWords = new()
     {
         { "one", 1 }, { "two", 2}, {"three", 3 }, { "four", 4 }, { "five", 5 }, { "six", 6 }, { "seven", 7 }, { "eight", 8 }, { "nine", 9 }

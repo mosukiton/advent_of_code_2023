@@ -5,6 +5,7 @@ public class Program
     public static void Main(string[] args)
     {
         SolutionRunner runner = new();
-        runner.Solve(2, Problem.Problem1);
+        runner.Solve(2, Problem.All);
+        //runner.SolveAll();
     }
 }
