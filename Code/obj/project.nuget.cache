@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "fp4by/Sv1MDrcC/gowvlr+oxDad5ljb2BN2tmBIhVXjk+Ja3kbTk6qwNui3M9Dwarn2FvxnuH+ujigCz/GO39g==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\AdventOfCode2023\\Code\\Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hsahota\\.nuget\\packages\\adventofcode.framework\\1.3.8\\adventofcode.framework.1.3.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://buildblade-01/IonNugetFeed/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

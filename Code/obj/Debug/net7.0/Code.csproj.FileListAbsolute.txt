@@ -1,0 +1,18 @@
+C:\Development\AdventOfCode2023\Code\bin\Debug\net7.0\Code.exe
+C:\Development\AdventOfCode2023\Code\bin\Debug\net7.0\Code.deps.json
+C:\Development\AdventOfCode2023\Code\bin\Debug\net7.0\Code.runtimeconfig.json
+C:\Development\AdventOfCode2023\Code\bin\Debug\net7.0\Code.dll
+C:\Development\AdventOfCode2023\Code\bin\Debug\net7.0\Code.pdb
+C:\Development\AdventOfCode2023\Code\bin\Debug\net7.0\Advent of Code Framework.dll
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.csproj.AssemblyReference.cache
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.AssemblyInfoInputs.cache
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.AssemblyInfo.cs
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.csproj.CoreCompileInputs.cache
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.csproj.CopyComplete
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.dll
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\refint\Code.dll
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.pdb
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\Code.genruntimeconfig.cache
+C:\Development\AdventOfCode2023\Code\obj\Debug\net7.0\ref\Code.dll
+C:\Development\AdventOfCode2023\Code\bin\Debug\net7.0\Input\Day1.txt
